@@ -1,0 +1,14 @@
+C:\Users\Primaten\Desktop\Clicker\obj\Debug\Clicker.EditWin.resources
+C:\Users\Primaten\Desktop\Clicker\obj\Debug\Clicker.MainForm.resources
+C:\Users\Primaten\Desktop\Clicker\obj\Debug\Clicker.Properties.Resources.resources
+C:\Users\Primaten\Desktop\Clicker\obj\Debug\Clicker.csproj.GenerateResource.Cache
+C:\Users\Primaten\Desktop\Clicker\obj\Debug\Clicker.csproj.CoreCompileInputs.cache
+C:\Users\Primaten\Desktop\Clicker\bin\Debug\Clicker.exe
+C:\Users\Primaten\Desktop\Clicker\bin\Debug\Clicker.pdb
+C:\Users\Primaten\Desktop\Clicker\obj\Debug\Clicker.exe
+C:\Users\Primaten\Desktop\Clicker\obj\Debug\Clicker.pdb
+C:\Users\Primaten\Desktop\Clicker\bin\Debug\Clicker.exe.manifest
+C:\Users\Primaten\Desktop\Clicker\bin\Debug\Clicker.application
+C:\Users\Primaten\Desktop\Clicker\obj\Debug\Clicker.exe.manifest
+C:\Users\Primaten\Desktop\Clicker\obj\Debug\Clicker.application
+C:\Users\Primaten\Desktop\Clicker\obj\Debug\Clicker.csprojResolveAssemblyReference.cache
